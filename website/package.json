@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -22,7 +23,7 @@
     "@react-hook/intersection-observer": "^3.1.1",
     "@tabler/icons": "^1.96.0",
     "cookies-next": "^2.1.1",
-    "kiwi-schema": "^0.4.7",
+    "kiwi-schema": "latest",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
